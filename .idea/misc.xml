@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/UAS0014_SensorGyroscope/app/src/main/res/drawable/bg_button.xml" value="0.28615384615384615" />
+        <entry key="..\:/KULIAH/UAS0014_SensorGyroscope/app/src/main/res/layout/activity_list_view.xml" value="0.1334853090172239" />
+        <entry key="..\:/KULIAH/UAS0014_SensorGyroscope/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/KULIAH/UAS0014_SensorGyroscope/app/src/main/res/layout/first_page_ui.xml" value="0.264" />
+        <entry key="..\:/KULIAH/UAS0014_SensorGyroscope/app/src/main/res/layout/listview_data_layout.xml" value="0.1334853090172239" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0002_Sensor Gyroscope/app/src/main/res/layout/activity_list_view.xml" value="0.1796875" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0002_Sensor Gyroscope/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0002_Sensor Gyroscope/app/src/main/res/layout/first_page_ui.xml" value="0.22" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0002_Sensor Gyroscope/app/src/main/res/layout/listview_data_layout.xml" value="0.1796875" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0008_Sensor Gyroscope/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0008_Sensor Gyroscope/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SENSOR/Gyroscope/19.01.53.0008_Sensor Gyroscope/app/src/main/res/layout/first_page_ui.xml" value="0.1" />
+        <entry key="..\:/UAS0014_PAM_Gyroscope-main/UAS0014_SensorGyroscope/app/src/main/res/drawable/bg_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/UAS0014_PAM_Gyroscope-main/UAS0014_SensorGyroscope/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
+        <entry key="..\:/UAS0014_PAM_Gyroscope-main/UAS0014_SensorGyroscope/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UAS0014_PAM_Gyroscope-main/UAS0014_SensorGyroscope/app/src/main/res/layout/first_page_ui.xml" value="0.16666666666666666" />
+        <entry key="..\:/UAS0014_PAM_Gyroscope-main/UAS0014_SensorGyroscope/app/src/main/res/layout/listview_data_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
